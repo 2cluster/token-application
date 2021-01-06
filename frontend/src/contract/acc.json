@@ -1,0 +1,7 @@
+{
+  "accounts": {
+    "0x559BC07434C89c5496d790DFD2885dC966F9113a": "controller",
+    "0x54806DD512b21814aa560D627432a75720ed6bB3": "party1",
+    "0x6dC89393FA30b64c56DEFF31dAAcf10cEdcD852D": "party2"
+  }
+}
